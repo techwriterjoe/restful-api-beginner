@@ -45,7 +45,7 @@ Notice some of the Graph API's results and compare them to the actual page:
   2. GET is similar to the traditional "getter"
   3. POST and PUT are similar to the traditional term "setter"
 
-> Facebook's Graph API has SDKs for many CS languages. To start examing what a RESTful API call looks like, examine  
+> Facebook's Graph API has SDKs for many CS languages. To start examing what a RESTful API call looks like, examine
 > the JavaScript below:
 
 ```javascript
