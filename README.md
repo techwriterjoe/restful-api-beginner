@@ -1,4 +1,4 @@
-# Using a RESTful API for a Beginner
+#Using a RESTful API for a Beginner
 
 The [Facebook Graph API](https://developers.facebook.com/docs/graph-api/overview) allows developers to receive data, post data, or rearrange items on Facebook's web pages. The API categorizes Facebook pages into three areas: 
 
