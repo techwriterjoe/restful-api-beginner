@@ -27,7 +27,7 @@ The [Facebook Graph API](https://developers.facebook.com/docs/graph-api/overview
 
 Similar to other social media RESTful APIs, data for a specific page, or even node, can be requested through a web link. For example, place the address **`graph.facebook.com/comcast`** into a web browser. A page with numerous return results should appear. Pictured below is the data received from the API call and actual Comcast Facebook page:
 
-![Graph API Comcast](https://raw.githubusercontent.com/techwriterjoe/restapi-ls-command/master/comcast.png)
+![Graph API Comcast](https://raw.githubusercontent.com/techwriterjoe/restful-api-apis-beginner/master/comcast.png)
 
 Notice some of the Graph API's results and compare them to the actual page:
 
